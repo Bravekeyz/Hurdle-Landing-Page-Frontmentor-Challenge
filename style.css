@@ -138,3 +138,8 @@ footer p{
     text-align: center;
 }
 }
+.small-box{
+    border-style: none;
+    width: 75%;
+    box-shadow: none;
+}
